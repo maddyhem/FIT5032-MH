@@ -101,7 +101,7 @@
 
       <li
         v-for="author in authors" :key="author.id" :class="{ highlight: author.name === 'George Orwell' }">
-          {{ author.name }} ({{ author.birthYear }})
+          {{ author.name }} 
       </li>
 
     </section>
