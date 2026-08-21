@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["Week2-library/src/*"]
+    }
+  },
+  "exclude": ["node_modules", "dist"]
+}
